@@ -1,0 +1,12 @@
+Step 1:extract instagram.zip and cupp.zip
+Step 2:now open cupp folder and right click 
+Step 3:now click open in terminal
+Step 4:now write the following command ./cupp.py
+
+It will ask you few questions about the target
+
+and this tool will make a txt file which will contain password lists for brute forcing 
+
+copy this txt file to instagram folder 
+
+and rest is in the readme file inside that folder
